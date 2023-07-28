@@ -1,0 +1,12 @@
+Algorithme Produit;
+
+Var: 
+       a, b,p: entiers;
+Début 
+	Ecrire" entrez un nombre";
+        Lire a; 
+        Ecrire "entrez un nombre";
+        Lire b ;
+        P<---- a x b;
+        Ecrire " le produit de", a, "×" ,b ,"est"P;
+Fin.
